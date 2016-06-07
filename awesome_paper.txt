@@ -1,15 +1,15 @@
-***ISUE***: underline all headlines (abstract, results)
+***ISSUE***: underline all headlines (abstract, results)
 
 test 1
 
 Abstract:
-***ISUE***: write a nice greeting for the beginning
-***ISUE***: write an even nicer greeting for the beginning
+***ISSUE***: write a nice greeting for the beginning
+***ISSUE***: write an even nicer greeting for the beginning
 
 
 test 2
 Results:
-***ISUE***: make something up
+***ISSUE***: make something up
 
 
 Raindrops keep falling on my head
